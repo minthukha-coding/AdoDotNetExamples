@@ -20,3 +20,4 @@ C:\Users\User\source\repos\AdoDotNetExample\AdoDotNetExamples\obj\Debug\net8.0\r
 C:\Users\User\source\repos\AdoDotNetExample\AdoDotNetExamples\obj\Debug\net8.0\AdoDotNetExamples.pdb
 C:\Users\User\source\repos\AdoDotNetExample\AdoDotNetExamples\obj\Debug\net8.0\AdoDotNetExamples.genruntimeconfig.cache
 C:\Users\User\source\repos\AdoDotNetExample\AdoDotNetExamples\obj\Debug\net8.0\ref\AdoDotNetExamples.dll
+C:\Users\User\source\repos\AdoDotNetExample\AdoDotNetExamples\obj\Debug\net8.0\AdoDotNetExamples.sourcelink.json
